@@ -1,0 +1,3 @@
+[
+{"name":"tests/tsample.nim c","category":"pattern","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"62ed2f1d98b6","commit":"f6a59bfed04","branch":"main"},
+{"name":"tests/tsample2.nim c","category":"pattern","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"62ed2f1d98b6","commit":"f6a59bfed04","branch":"main"}]
