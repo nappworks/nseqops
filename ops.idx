@@ -1,0 +1,52 @@
+nimTitle	ops	docs.html	module src/nseqops/ops		0
+nim	sumSeq	docs.html#sumSeq,seq[float64]	proc sumSeq(data: seq[float64]): float64		23
+nim	prodSeq	docs.html#prodSeq,seq[float64]	proc prodSeq(data: seq[float64]): float64		39
+nim	addSeqs	docs.html#addSeqs,seq[float64],seq[float64]	proc addSeqs(a, b: seq[float64]): seq[float64]		55
+nim	subSeqs	docs.html#subSeqs,seq[float64],seq[float64]	proc subSeqs(a, b: seq[float64]): seq[float64]		80
+nim	mulSeqs	docs.html#mulSeqs,seq[float64],seq[float64]	proc mulSeqs(a, b: seq[float64]): seq[float64]		106
+nim	divSeqs	docs.html#divSeqs,seq[float64],seq[float64]	proc divSeqs(a, b: seq[float64]): seq[float64]		131
+nim	dotSeqs	docs.html#dotSeqs,seq[float64],seq[float64]	proc dotSeqs(a, b: seq[float64]): float64		156
+nim	addSeqScalar	docs.html#addSeqScalar,seq[float64],float64	proc addSeqScalar(a: seq[float64]; b: float64): seq[float64]		181
+nim	addScalarSeq	docs.html#addScalarSeq,float64,seq[float64]	proc addScalarSeq(b: float64; a: seq[float64]): seq[float64]		201
+nim	subSeqScalar	docs.html#subSeqScalar,seq[float64],float64	proc subSeqScalar(a: seq[float64]; b: float64): seq[float64]		214
+nim	subScalarSeq	docs.html#subScalarSeq,float64,seq[float64]	proc subScalarSeq(b: float64; a: seq[float64]): seq[float64]		234
+nim	mulSeqScalar	docs.html#mulSeqScalar,seq[float64],float64	proc mulSeqScalar(a: seq[float64]; b: float64): seq[float64]		254
+nim	mulScalarSeq	docs.html#mulScalarSeq,float64,seq[float64]	proc mulScalarSeq(b: float64; a: seq[float64]): seq[float64]		274
+nim	divSeqScalar	docs.html#divSeqScalar,seq[float64],float64	proc divSeqScalar(a: seq[float64]; b: float64): seq[float64]		287
+nim	divScalarSeq	docs.html#divScalarSeq,float64,seq[float64]	proc divScalarSeq(b: float64; a: seq[float64]): seq[float64]		307
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Notes	docs.out#notes	 Notes		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Notes	docs.out#notes	 Notes		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Notes	docs.out#notes	 Notes		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Notes	docs.out#notes	 Notes		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Notes	docs.out#notes	 Notes		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Parameters	docs.out#parameters	 Parameters		0
+heading	Returns	docs.out#returns	 Returns		0
+heading	Usage Examples	docs.out#usage-examples	 Usage Examples		0

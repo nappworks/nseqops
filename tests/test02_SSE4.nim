@@ -1,8 +1,6 @@
 {.passC: "-msse4".}
 {.passL: "-msse4".}
-discard """
-  cmd: "nim c --passC:'-msse4' --passL:'-msse4' $file"
-"""
+
 import nseqops/sse4
 import unittest
 

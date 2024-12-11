@@ -1,7 +1,4 @@
-{.passC: "-mavx".}
-{.passL: "-mavx".}
-
-import nseqops/avx2
+import nseqops/ops
 import unittest
 
 suite "sumSeqプロシージャのテスト":

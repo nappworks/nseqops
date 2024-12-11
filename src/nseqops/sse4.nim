@@ -1,3 +1,5 @@
+{.passC: "-msse4".}
+{.passL: "-msse4".}
 ## This module provides functions for performing arithmetic operations on sequences
 ## of float64 values using SSE42 instructions for vectorization.
 ##
